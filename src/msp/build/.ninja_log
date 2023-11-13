@@ -1,0 +1,16 @@
+# ninja log v5
+3	3281	1698248347730907337	CMakeFiles/fcu_motors.dir/examples/fcu_motor_test.cpp.o	97232c8764ac1ccd
+2	5059	1698248349510933220	CMakeFiles/fcu_custom_type.dir/examples/fcu_custom_type.cpp.o	694f91b5af15ebd8
+1	5456	1698248349902939013	CMakeFiles/client_read_test.dir/examples/client_read_test.cpp.o	eeabb611a9ecc2c4
+5059	5922	1698248350374946088	CMakeFiles/mspclient.dir/src/PeriodicTimer.cpp.o	9841cb1dcf59e9b2
+6	7518	1698248351970970366	CMakeFiles/msp_fcu.dir/src/FlightController.cpp.o	1d86fe9786fb17a4
+3282	7585	1698248352034971354	CMakeFiles/mspclient.dir/src/Client.cpp.o	5e926636a05fd272
+7585	7668	1698248352118972663	libmspclient.so	eaa225d900b346a6
+7669	7767	1698248352218974222	client_read_test	5219bcf59567385b
+7669	7775	1698248352226974346	libmsp_fcu.so	969dd259235f9eb7
+7776	7887	1698248352338976092	fcu_motors	ed4d68bbf07ca39b
+7776	7891	1698248352342976154	fcu_custom_type	ce5b67430e8ee5e0
+4	10804	1698248355255022547	CMakeFiles/fcu_test.dir/examples/fcu_test.cpp.o	cb14b8c1f5519fbf
+10804	10914	1698248355367024382	fcu_test	8c10fca813a0e5d5
+0	11514	1698248355963034149	CMakeFiles/client_async_test.dir/examples/client_async_test.cpp.o	3b1f0535188857f
+11514	11628	1698248356079036068	client_async_test	b7c4b283dce573d8
