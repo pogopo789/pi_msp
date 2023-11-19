@@ -23,6 +23,8 @@ int main(int argc, char **argv) {
     // setup FCU, register publisher
     // node.setup();
 
+    ROS_INFO("MSP SUB IS READY!");
+
     ros::AsyncSpinner spinner(4);
     spinner.start();
     ros::waitForShutdown();

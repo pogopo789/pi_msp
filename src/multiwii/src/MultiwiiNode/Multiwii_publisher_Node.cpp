@@ -85,6 +85,8 @@ int main(int argc, char **argv) {
     // node.setup();
     node.getAllData();
 
+    ROS_INFO("MSP PUB IS READY!");
+
     ros::AsyncSpinner spinner(4);
     spinner.start();
     ros::waitForShutdown();
